@@ -1,7 +1,7 @@
 [project]
 name = "Youtube-Mixtape-Automation"
 version = "0.1.0"
-description = "Add your description here"
+description = "This project streamlines the entire workflow from merging audio files to generating AI powered metadata and converting the final mix into video"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []
